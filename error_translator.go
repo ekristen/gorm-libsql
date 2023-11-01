@@ -1,4 +1,4 @@
-package sqlite
+package libsql
 
 import (
 	"encoding/json"
