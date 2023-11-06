@@ -6,7 +6,7 @@ toolchain go1.21.0
 
 require (
 	github.com/libsql/libsql-client-go v0.0.0-20231026052543-fce76c0f39a7
-	github.com/mattn/go-sqlite3 v1.14.17
+	github.com/mattn/go-sqlite3 v1.14.18
 	gorm.io/gorm v1.25.2-0.20230530020048-26663ab9bf55
 )
 
