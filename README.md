@@ -8,7 +8,7 @@
 
 ```go
 import (
-  "github.com/ekristen/libsql"
+  libsql "github.com/ekristen/gorm-libsql"
   "gorm.io/gorm"
 )
 
