@@ -12,7 +12,7 @@ import (
   "gorm.io/gorm"
 )
 
-// github.com/libsql/libsql-client-go/libsql
+// github.com/tursodatabase/libsql-client-go/libsql
 db, err := gorm.Open(libsql.Open("libsql://...."), &gorm.Config{})
 ```
 
